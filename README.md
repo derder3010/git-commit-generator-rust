@@ -81,6 +81,7 @@ The start date is currently hardcoded in `src/main.rs` to January 1, 2019. To ch
 let start_date = NaiveDateTime::parse_from_str("2019-01-01 00:00:00", "%Y-%m-%d %H:%M:%S")?.and_utc();
 ```
 Change "2019-01-01 00:00:00" to your desired start date and time in the format YYYY-MM-DD HH:MM:SS. The end date is always the current time.
+
 Example
 
 To generate 25 commits with random timestamps between January 1, 2019, and the current time, you would run:
