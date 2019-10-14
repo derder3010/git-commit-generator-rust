@@ -79,3 +79,4 @@ The start date is currently hardcoded in `src/main.rs` to January 1, 2019. To ch
 
 ```rust
 let start_date = NaiveDateTime::parse_from_str("2019-01-01 00:00:00", "%Y-%m-%d %H:%M:%S")?.and_utc();
+
