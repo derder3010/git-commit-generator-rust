@@ -84,7 +84,7 @@ let start_date = NaiveDateTime::parse_from_str("2019-01-01 00:00:00", "%Y-%m-%d 
 
 ### Example
 
-To generate 25 commits with random timestamps between January 1, 2019, and the current time, you would run:
+*  To generate 25 commits with random timestamps between January 1, 2019, and the current time, you would run:
 ```Bash
 
 cargo run --release -- 25
