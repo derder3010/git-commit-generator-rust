@@ -85,8 +85,7 @@ Change "2019-01-01 00:00:00" to your desired start date and time in the format Y
 ### Example
 
 To generate 25 commits with random timestamps between January 1, 2019, and the current time, you would run:
-```
-Bash
+```Bash
 
 cargo run --release -- 25
 
