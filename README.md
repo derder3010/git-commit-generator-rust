@@ -94,7 +94,7 @@ cargo run --release -- 25
 
 *   Please use this tool responsibly. Artificially inflating your contribution graph can be misleading and is generally discouraged. The contribution graph is intended to reflect genuine work and activity.
 ### License
-This project is licensed under the MIT License.
+*This project is licensed under the MIT License.
 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
