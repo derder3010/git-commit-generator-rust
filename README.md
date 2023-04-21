@@ -88,7 +88,7 @@ To generate 25 commits with random timestamps between January 1, 2019, and the c
 ```Bash
 
 cargo run --release -- 25
-
+```
 
 Ethical Considerations
 
