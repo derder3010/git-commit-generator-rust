@@ -90,7 +90,7 @@ To generate 25 commits with random timestamps between January 1, 2019, and the c
 cargo run --release -- 25
 ```
 
-Ethical Considerations
+### Ethical Considerations
 
 Please use this tool responsibly. Artificially inflating your contribution graph can be misleading and is generally discouraged. The contribution graph is intended to reflect genuine work and activity.
 License
