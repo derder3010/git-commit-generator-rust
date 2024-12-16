@@ -20,7 +20,7 @@ This is a simple command-line tool written in Rust that generates a specified nu
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)<derder3010>/git-commit-generator-rust.git # Replace with your repo URL
+    git clone https://github.com/derder3010/git-commit-generator-rust.git
     cd git-commit-generator-rust
     ```
 
